@@ -1,5 +1,5 @@
 site_name: Oscips e OS
-site_url: https://mydomain.org/mysite
+site_url: https://seplagmg-parcerias.github.io/SCPTS/
 
 nav:
   - index.md
@@ -7,7 +7,7 @@ nav:
   - os/index.md
   - capacitações/index.md
   - outrosdocs/index.md
-  
+
 theme:
   name: material
   language: pt-BR
