@@ -9,8 +9,7 @@ A Superintendência Central de Parcerias com o Terceiro Setor, atualmente respon
 
 
 
-
-#### [Parcerias com Oscip e OS no Estado de Minas Gerais](https://www.mg.gov.br/planejamento/documento/parcerias-com-oscip-e-os-no-estado-de-minas-gerais)
+[**Parcerias com Oscip e OS no Estado de Minas Gerais**](https://www.mg.gov.br/planejamento/documento/parcerias-com-oscip-e-os-no-estado-de-minas-gerais)
 
 Acesse o Painel de Informações dos Contratos de Gestão e Termos de Parceria do Estado de Minas Gerais [**clicando aqui**](https://app.powerbi.com/view?r=eyJrIjoiZDU4M2U2OTQtZDM5Yy00ODg3LWFlMDItNTFjM2ZkZTZmMzA4IiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9).
 
@@ -19,7 +18,7 @@ Acesse  o conjunto de informações sobre termos de parceria e contratos de gest
 
 
  
-## **Regulamentação:**
+## **Legislação:**
 
 As metodologias e procedimentos de elaboração, monitoramento e avaliação dos Termos de Parceria e Contratos de Gestão no Estado de Minas Gerais são definidos pela seguinte legislação:
 

@@ -1,5 +1,13 @@
 site_name: Oscips e OS
 site_url: https://mydomain.org/mysite
+
+nav:
+  - index.md
+  - oscip/index.md
+  - os/index.md
+  - capacitações/index.md
+  - outrosdocs/index.md
+  
 theme:
   name: material
   language: pt-BR
