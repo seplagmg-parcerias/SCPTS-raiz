@@ -1,1 +1,31 @@
-site_name: My Docs
+site_name: Oscips e OS
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.path
+  palette:
+    - scheme: default
+      primary: lime
+      accent: teal
+      toggle: 
+        icon: material/toggle-switch 
+        name: Modo Escuro
+    - scheme: slate
+      primary: lime
+      accent: teal
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Modo Claro
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+
+
+ 
