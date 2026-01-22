@@ -12,7 +12,7 @@ Neste vídeo, vamos apresentar o cronograma geral do processo de seleção públ
 
 ##**Documentos**
 
-:fontawesome-solid-file-download: Acesse e baixe o material da aula [aqui]() :material-arrow-expand-left:
+:fontawesome-solid-file-download: Acesse e baixe o material da aula [aqui](selecao_publica_cronograma.pdf) :material-arrow-expand-left:
 
 
 ##**Dúvidas e Comentários**
