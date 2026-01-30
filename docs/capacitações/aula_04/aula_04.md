@@ -4,27 +4,15 @@ comments: true
 
 # AULA 04
 
-## 🎥 Vídeo 4.1 – Instrumento Jurídico do Processo de Seleção (parte I)
+## 🎥 Vídeo 4 – Termo de Referência 
 
-Neste vídeo, vamos apresentar o modelo de edital disponibilizado pela Seplag.
-
-<iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-##**Documentos**
-
-:fontawesome-solid-file-download: Acesse e baixe o material da aula [aqui](edital_de_selecao_publica_edital_1.pdf) :material-arrow-expand-left:
-
-
-
-## 🎥 Vídeo 4.2 – Instrumento Jurídico do Processo de Seleção (parte II)
-
-Neste vídeo vamos dar continuidade ao tema e apresentar a segunda parte do modelo de edital disponibilizado pela Seplag.
+Neste vídeo, vamos apresentar o Termo de Referência, Anexo I do modelo de edital disponibilizado pela Seplag.
 
 <iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##**Documentos**
 
-:fontawesome-solid-file-download: Acesse e baixe o material da aula [aqui](edital_de_selecao_publica_edital_2.pdf) :material-arrow-expand-left:
+:fontawesome-solid-file-download: Acesse e baixe o material da aula [aqui](seleção_pública_termo_de_referência.pdf) :material-arrow-expand-left:
 
 
 ##**Dúvidas e Comentários**
