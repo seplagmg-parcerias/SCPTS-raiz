@@ -4,7 +4,7 @@ A sua participação é voluntária e anônima.
 A pesquisa é composta por 15 perguntas, separadas em 3 seções e seu preenchimento leva aproximadamente 4 minutos.
 
 
-!!! success ""
+!!! question ""
     **Acesse a pesquisa clicando --->  [aqui](https://forms.office.com/r/FMSQEw79Wd?origin=lprLink)  <--- !**
 
 Agradecemos imensamente a sua colaboração. Sua opinião faz toda a diferença!
