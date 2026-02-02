@@ -8,7 +8,7 @@ comments: true
 
 Neste vídeo, vamos aprender a preparar e utilizar o SEI para o recebimento e julgamento de propostas.
 
-<iframe width="560" height="315" src="substituirpelolinkdoyoutube" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J6EATEPN92U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ##**Documentos**
 
