@@ -4,7 +4,7 @@ comments: true
 
 # AULA 05
 
-## 🎥 Vídeo 5 – Critérios para avaliação das propostas 
+## 🎥 Vídeo 5 – Critérios de Seleção 
 
 Neste vídeo, vamos apresentar o Anexo II do modelo de edital disponibilizado pela Seplag, que define e descreve os critérios de avaliação das propostas das entidades interessadas na seleção pública.
 
