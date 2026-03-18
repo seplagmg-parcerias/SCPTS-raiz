@@ -1,6 +1,6 @@
 # Project information
 site_name: Oscips e OS
-site_url: https://seplagmg-parcerias.github.io/SCPTS-raiz/
+site_url: https://parcerias.planejamento.mg.gov.br/
 
 # Page tree
 nav:
@@ -73,8 +73,12 @@ edit_uri: edit/main/docs/
 extra_css:
   - assets/style.css
   - assets/extra.css
+  
 extra_javascript:
   - assets/style.js
+  
+extra:
+  include_cname: true
 
 
 # Extensions
