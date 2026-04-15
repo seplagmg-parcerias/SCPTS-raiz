@@ -5,9 +5,8 @@ site_url: https://parcerias.planejamento.mg.gov.br/
 # Page tree
 nav:
   - Início: index.md
-  - Oscip: oscip/index.md
-  - OS: os/index.md
-  - Capacitações:
+  - Modelos e Manuais: modelos/index.md
+  - Trilhas de Aprendizagem:
     - Seleções Públicas: capacitações/index.md
     - Aulas:
       - Aula 01: capacitações/aula_01/aula_01.md
@@ -20,7 +19,7 @@ nav:
       - Aula 08: capacitações/aula_08/aula_08.md
       - Pesquisa de Satisfação: capacitações/Pesquisa de Satisfação/form_aval.md
     - Memória de Cálculo: capacitações/memoriadecalculo.md
-  - Outros Documentos: outrosdocs/index.md
+  
 
 # Configuration
 theme:
