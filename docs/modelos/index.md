@@ -3,7 +3,7 @@
 A legislação relacionada as parcerias com OS e Oscip no Estado de Minas Gerais exige, ao longo de todo o ciclo de vida dos instrumentos celebrados, a utilização, por parte dos Órgãos Estatais, bem como das entidades sem fins lucrativos, dos modelos disponibilizados pela Seplag. Deste modo, assegura-se o atendimento aos padrões de excelência e o emprego das melhores práticas e metodologias desenvolvidas ao longo dos anos por todos os partícipes, além de facilitar o desenvolvimento das parcerias pelos interessados. 
 
 
-## [**Organizações da Sociedade Civil de Interesse Público - Oscip**](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip)
+## :open_file_folder: [**Organizações da Sociedade Civil de Interesse Público - Oscip**](https://www.mg.gov.br/planejamento/pagina/planejamento-e-orcamento/parcerias-com-oscip/oscip)
 
 - **Qualificação**
 
@@ -82,7 +82,9 @@ A legislação relacionada as parcerias com OS e Oscip no Estado de Minas Gerais
 
 
 
-## [**Organizações Sociais – OS**](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os)
+
+
+## :open_file_folder: [**Organizações Sociais – OS**](https://www.mg.gov.br/planejamento/pagina/gestao-governamental/parcerias-com-os/organizacoes-sociais-os)
  
 
 - **Qualificação**
@@ -160,17 +162,13 @@ A legislação relacionada as parcerias com OS e Oscip no Estado de Minas Gerais
 
 
 
-# **Outros Documentos**
+## :open_file_folder: **Outros Documentos**
 
-## ***Utilização do SEI***
+- **Utilização do SEI**
 
-Recomendamos a utilização do *Sistema SEI!* para recebimento das propostas da entidades do terceiro setor interessadas em participar das seleções públicas para celebração de termos de parceria ou contratos de gestão, em conformidade com a legislação vigente e normas estabelecidas em edital. Abaixo disponibilizamos modelos importantes para utilização nesta etapa.
-
-- Baixe a Cartilha de utilização do SEI e customize conforme necessário:
+Recomendamos a utilização do *Sistema SEI!* para recebimento das propostas da entidades do terceiro setor interessadas em participar das seleções públicas para celebração de termos de parceria ou contratos de gestão, em conformidade com a legislação vigente e normas estabelecidas em edital. Abaixo disponibilizamos, para *download* modelos importantes para utilização nesta etapa.
 
 
-[Cartilha de Utilização do SEI](Utilização do SEI - cartilha - vr2.docx)
+:material-check: [Cartilha de Utilização do SEI](Utilização do SEI - cartilha - vr2.docx) (customize conforme necessário)
 
-- Baixe o Formulário de envio de Propostas:
-
-[Formulário de envio de Propostas](modelo_formulário-de-envio-de-proposta.doc)
+:material-check: [Formulário de envio de Propostas](modelo_formulário-de-envio-de-proposta.doc)

@@ -48,10 +48,10 @@ As parcerias são estruturadas com base em processos públicos, objetivos e impe
 ##**Modalidades de parceria** 
 
 1. **Contratos de Gestão com Organizações Sociais (OS)**:
-Atuam, predominantemente, na gestão de equipamentos públicos ou na execução de serviços ou atividades públicos estruturantes e de longo prazo. 
+Atuam, predominantemente, na gestão de equipamentos ou na execução de serviços ou atividades públicos estruturantes e de longo prazo, possibilitando, inclusive, a cessão de servidores públicos à parceira. Podem durar até 20 anos.
 
 2. **Termos de Parceria com Organizações da Sociedade Civil de Interesse Público (Oscip)**:
-Voltados, em geral, à execução de projetos específicos ou atividades de apoio à política pública. Modelo ideal para o fomento de políticas públicas inovadoras. 
+Voltados, em geral, à execução de projetos específicos ou atividades de apoio à política pública. Modelo ideal para o fomento de políticas públicas inovadoras. Podem durar até 5 anos.
 
 
 Em ambas as modalidades, o Estado, por meio do órgão signatário do instrumento jurídico, mantém-se como responsável pela política.  

@@ -1,5 +1,5 @@
 ## **O que é?**
-A Memória de Cálculo - MC, elaborada pela OS ou OCIP em conjunto com o OEP, em linhas gerais, detalha a previsão dos recursos a serem repassados/arrecadados e dos gastos que serão executados durante a vigência do contrato de gestão ou termo de parceria.
+A Memória de Cálculo - MC, elaborada pela OS ou OSCIP em conjunto com o OEP, em linhas gerais, detalha a previsão dos recursos a serem repassados/arrecadados e dos gastos que serão executados durante a vigência do contrato de gestão ou termo de parceria.
 
 Nos vídeos abaixo, você poderá entender mais sobre o modelo de Memória de Cálculo, da sua construção à sua análise! 
 

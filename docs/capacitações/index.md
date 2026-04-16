@@ -10,17 +10,17 @@ Damos boas vindas à capacitação sobre **Seleções Públicas** para parcerias
 
 Este curso tem como objetivo capacitar servidores e gestores públicos estaduais para planejar, implementar, conduzir e acompanhar processos de seleção pública voltados à celebração de parcerias com organizações da sociedade civil, em conformidade com a Lei Estadual nº 23.081/2018 e suas regulamentações, isto é, os Decretos Estaduais nº 47.553/2018, nº 47.554/2018 e nº 47.742/2019. Por isso, este curso é relevante porque:
 
-- 📚 **Fortalece a capacidade institucional** do Estado de Minas Gerais para celebrar parcerias com mais segurança, eficiência, qualidade e transparência.
+📚 **Fortalece a capacidade institucional** do Estado de Minas Gerais para celebrar parcerias com mais segurança, eficiência, qualidade e transparência.
 
-- 📚 **Garante conformidade legal**, alinhando os gestores e órgãos à Lei Estadual nº 23.081/2018 e seus regulamentos.
+📚 **Garante conformidade legal**, alinhando os gestores e órgãos à Lei Estadual nº 23.081/2018 e seus regulamentos.
 
-- 📚 **Qualifica a gestão pública**, instruindo o uso dos modelos da SEPLAG e evitando fragilidades na elaboração dos editais, bem como de seus termos de referência, critérios de avaliação e programas de trabalho, que podem gerar custos, atrasos ou mesmo inviabilizar parcerias.
+📚 **Qualifica a gestão pública**, instruindo o uso dos modelos da SEPLAG e evitando fragilidades na elaboração dos editais, bem como de seus termos de referência, critérios de avaliação e programas de trabalho, que podem gerar custos, atrasos ou mesmo inviabilizar parcerias.
 
-- 📚 **Promove maior impacto social**, já que uma seleção bem estruturada aumenta a chance de escolher organizações da sociedade civil mais preparadas para executar políticas públicas com qualidade.
+📚 **Promove maior impacto social**, já que uma seleção bem estruturada aumenta a chance de escolher organizações da sociedade civil mais preparadas para executar políticas públicas com qualidade.
 
-- 📚 **Aumenta a transparência e a confiança pública**, pois processos seletivos claros e bem conduzidos reduzem riscos de desvios legais, questionamentos por ógãos de controle e desconfiança da sociedade.
+📚 **Aumenta a transparência e a confiança pública**, pois processos seletivos claros e bem conduzidos reduzem riscos de desvios legais, questionamentos por ógãos de controle e desconfiança da sociedade.
 
-- 📚 **Contribui para resultados concretos**, estimulando parcerias mais eficazes e melhorando a execução de serviços de interesse público em diversas áreas.
+📚 **Contribui para resultados concretos**, estimulando parcerias mais eficazes e melhorando a execução de serviços de interesse público em diversas áreas.
 
 
 - ### *Para quem é esse curso*
@@ -46,33 +46,35 @@ Esse curso é para você que:
 
 Ao final deste curso, você será capaz de:
 
-- 💡 Compreender o arcabouço legal que regula as parcerias com Oscips e OSs em Minas Gerais, com destaque para a Lei Estadual nº 23.081/2018 e seus regulametos.
+💡 Compreender o arcabouço legal que regula as parcerias com Oscips e OSs em Minas Gerais, com destaque para a Lei Estadual nº 23.081/2018 e seus regulametos.
 
-- 💡 Apontar a viabilidade da celebração de parcerias como forma de execução de políticas públicas, identificando riscos e oportunidades.
+💡 Apontar a viabilidade da celebração de parcerias como forma de execução de políticas públicas, identificando riscos e oportunidades.
 
-- 💡 Planejar e realizar todas as fases de um processo de seleção pública, desde a elaboração até a convocação da entidade vencedora.
+💡 Planejar e realizar todas as fases de um processo de seleção pública, desde a elaboração até a convocação da entidade vencedora.
 
-- 💡 Utilizar o SEI (Sistema Eletrônico de Informações) como ferramenta de tramitação processual neste trabalho.
+💡 Utilizar o SEI (Sistema Eletrônico de Informações) como ferramenta de tramitação processual neste trabalho.
 
-- 💡 Elaborar o edital de seleção pública com base no modelo SEPLAG, definindo corretamente objeto, valor, vigência, condições de participação, prazos, recursos, etc.; além de construir anexos fundamentais como termo de referência, critérios de avaliação de propostas, programa de trabalho e demais documentos obrigatórios.
+💡 Elaborar o edital de seleção pública com base no modelo SEPLAG, definindo corretamente objeto, valor, vigência, condições de participação, prazos, recursos, etc.; além de construir anexos fundamentais como termo de referência, critérios de avaliação de propostas, programa de trabalho e demais documentos obrigatórios.
 
-- 💡 Aplicar boas práticas de gestão que assegurem a legalidade, a transparência e a eficiência na escolha de parceiros do terceiro setor.
+💡 Aplicar boas práticas de gestão que assegurem a legalidade, a transparência e a eficiência na escolha de parceiros do terceiro setor.
 
-- 💡 Prevenir erros e irregularidades, conhecendo pontos de atenção mais frequentimente identificados.
+💡 Prevenir erros e irregularidades, conhecendo pontos de atenção mais frequentimente identificados.
 
-- 💡 Contribuir para o monitoramento e avaliação mais efetivos das parcerias, delineando produtos e indicadores de execução, resultado e impacto.
+💡 Contribuir para o monitoramento e avaliação mais efetivos das parcerias, delineando produtos e indicadores de execução, resultado e impacto.
 
 ## **Como funciona**
-O curso é dividido em 9 aulas de conteúdo com:
+O curso é dividido em 8 aulas de conteúdo com:
 
-- Vídeo aulas objetivas;
-- Materiais disponibilizados;
-- Tira-dúvidas por comentários ao final da página.
+- :octicons-video-16: Vídeo aulas objetivas;
 
-Você só precisa de cerca de 1 hora por aula para concluir cada etapa. Ou seja: com um pouquinho de dedicação, é possível finalizar o curso rapidamente.
+- :material-file-document-plus-outline: Materiais disponibilizados;
+
+- :fontawesome-regular-comments: Tira-dúvidas por comentários ao final da página.
+
+Você só precisa de cerca de 1 hora por aula para concluir cada etapa. Ou seja: com um pouquinho de dedicação, é possível finalizar o curso rapidamente!
 
 ## **Nos avalie!**
-Ao final do curso, não deixe de avaliá-lo! É só clicar [aqui](Pesquisa de Satisfação/form_aval.md)
+Ao final do curso, não deixe de avaliá-lo. É só clicar [aqui](Pesquisa de Satisfação/form_aval.md)!
 
 ## **Comece agora**
 Não há pré-requisitos, você só precisa disposição para apreender!
