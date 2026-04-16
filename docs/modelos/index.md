@@ -166,7 +166,7 @@ A legislação relacionada as parcerias com OS e Oscip no Estado de Minas Gerais
 
 - **Utilização do SEI**
 
-Recomendamos a utilização do *Sistema SEI!* para recebimento das propostas da entidades do terceiro setor interessadas em participar das seleções públicas para celebração de termos de parceria ou contratos de gestão, em conformidade com a legislação vigente e normas estabelecidas em edital. Abaixo disponibilizamos, para *download* modelos importantes para utilização nesta etapa.
+Recomendamos a utilização do *Sistema SEI!* para recebimento das propostas da entidades do terceiro setor interessadas em participar das seleções públicas para celebração de termos de parceria ou contratos de gestão, em conformidade com a legislação vigente e normas estabelecidas em edital. Abaixo disponibilizamos, para *download*, modelos importantes para utilização nesta etapa.
 
 
 :material-check: [Cartilha de Utilização do SEI](Utilização do SEI - cartilha - vr2.docx) (customize conforme necessário)
