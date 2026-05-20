@@ -17,7 +17,7 @@ A legislação relacionada as parcerias com OS e Oscip no Estado de Minas Gerais
 
 - **Seleção pública**
 
-[Modelo de edital do processo de seleção pública](https://www.mg.gov.br/planejamento/documento/maio_25-modelo-de-edital-processo-de-selecao-publica-oscip_vr9docx) 
+[Modelo de edital do processo de seleção pública](https://www.mg.gov.br/system/files/media/planejamento/documento_detalhado/2026/modelo-de-edital-processo-de-selecao-publica-oscip_vr12.docx) 
 
 [Modelo de cronograma do processo de seleção pública ](https://www.mg.gov.br/planejamento/documento/mar_25-modelo-de-cronograma-do-processo-de-selecao-publica-tp-1docx)
 
