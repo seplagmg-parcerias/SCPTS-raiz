@@ -17,7 +17,7 @@ A legislação relacionada as parcerias com OS e Oscip no Estado de Minas Gerais
 
 - **Seleção pública**
 
-[Modelo de edital do processo de seleção pública](https://www.mg.gov.br/system/files/media/planejamento/documento_detalhado/2026/modelo-de-edital-processo-de-selecao-publica-oscip_vr12.docx) 
+[Modelo de edital do processo de seleção pública](https://www.mg.gov.br/planejamento/documento/modelo-de-edital-processo-de-selecao-publica-oscip_vr12docx-0) 
 
 [Modelo de cronograma do processo de seleção pública ](https://www.mg.gov.br/planejamento/documento/mar_25-modelo-de-cronograma-do-processo-de-selecao-publica-tp-1docx)
 
@@ -30,9 +30,9 @@ A legislação relacionada as parcerias com OS e Oscip no Estado de Minas Gerais
 
 - **Celebração**
 
-[Modelo de minuta de termo de parceria](https://www.mg.gov.br/planejamento/documento/modelo-de-minuta-de-termo-de-parceria)
+[Modelo de minuta de termo de parceria](https://www.mg.gov.br/planejamento/documento/modelo_de_minuta_completa_de_termo_de_parceria_81docx-0)
 
-[Modelo de Memória de Cálculo](https://www.mg.gov.br/planejamento/documento/modelo-de-memoria-de-calculo-0)
+[Modelo de Memória de Cálculo](https://www.mg.gov.br/planejamento/documento/modelo_de_memoria_de_calculo_vr_84xlsx-0)
 
 [Modelo de extrato de assinatura](https://www.mg.gov.br/planejamento/documento/modelo_extrato_celebracao-201-v2docx)
 
@@ -55,7 +55,7 @@ A legislação relacionada as parcerias com OS e Oscip no Estado de Minas Gerais
 
 [Modelo de demonstração de rateio](https://www.mg.gov.br/planejamento/documento/modelo-de-demonstracao-de-rateio)
 
-[Manual de orientações sobre as rotinas de monitoramento e fiscalização](https://www.mg.gov.br/system/files/media/documento_detalhado/2025-07/Manual%20de%20orienta%C3%A7%C3%B5es%20para%20a%20comiss%C3%A3o%20supervisora_2025.pdf) (Novo!)
+[Manual de orientações sobre as rotinas de monitoramento e fiscalização](https://www.mg.gov.br/planejamento/documento/manual-de-orientacoes-para-comissao-supervisora_2025pdf) (Novo!)
 
 - **Avaliação**
 
@@ -64,7 +64,7 @@ A legislação relacionada as parcerias com OS e Oscip no Estado de Minas Gerais
 
 - **Aditamento**
 
-[Modelo de minuta de Termo Aditivo](https://www.mg.gov.br/planejamento/documento/abr_25-modelo_minuta_termo_aditivo_v5docx)
+[Modelo de minuta de Termo Aditivo](https://www.mg.gov.br/planejamento/documento/modelo_minuta_termo_aditivo_v6docx)
 
 [Modelo de Memória de Cálculo](https://www.mg.gov.br/planejamento/documento/modelo-de-memoria-de-calculo-0)
 
